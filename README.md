@@ -1,7 +1,3 @@
-adminEmail: alok@gmail.com
-
-adminPassword: Alok&1234
-
 ### Live link 
 https://bookly-34e69.web.app/
 
